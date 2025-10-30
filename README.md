@@ -68,3 +68,5 @@ This workflow ensures smooth, intelligent two-way interaction directly through W
    - Authenticate MongoDB Atlas and link the target collection for storing embeddings.  
    - Create a **Vector Search Index** in MongoDB (e.g., `data_index`).  
    - Ensure the index name matches your n8n configuration.  
+
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Ai-WhatsApp-Customer-Support-Bot/blob/main/AI-Powered%20WhatsApp%20Chatbot%20for%20Text%2C%20Voice%2C%20Images%2C%20and%20PDF%20with%20RAG.json)
